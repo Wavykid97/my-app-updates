@@ -1,4 +1,5 @@
 {
   "version": "9.0.0",
-  "url": "https://github.com/Wavykid97/my-app-updates/releases/download/v9.0.0/scriptinstallwizard.exe"
+  "url": "https://github.com/Wavykid97/my-app-updates/releases/download/v9.0.0/scriptinstallwizard.exe",
+  "force_update": true
 }
